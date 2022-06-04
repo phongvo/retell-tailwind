@@ -7,7 +7,6 @@ describe('AppComponent', () => {
     await TestBed.configureTestingModule({
       declarations: [AppComponent, NxWelcomeComponent],
     }).compileComponents();
-    
   });
 
   it('should create the app', () => {

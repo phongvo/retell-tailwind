@@ -3,4 +3,5 @@ describe('ui', () => {
   it('should render the component', () => {
     cy.get('retell-banner').should('exist');
   });
+
 });
