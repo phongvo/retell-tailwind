@@ -9,6 +9,7 @@
     "build": "nx build",
     "test": "nx test"
   },
+  "build-storybook": "build-storybook -o docs-build",
   "private": true,
   "dependencies": {
     "@angular/animations": "~13.3.0",
